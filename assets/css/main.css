@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'myfont';
-    src: url('./shivi.woff');
+    src: url('shivi.woff');
 }
 
 html, body, div, span, applet, object,
